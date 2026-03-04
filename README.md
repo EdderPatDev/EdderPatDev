@@ -2,15 +2,13 @@
 
 👨‍💻 Data Analist JR| Analista de Datos 🌍 De Querétaro
 
-## Sobre mí
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> ## Sobre mí
 Cuento con experiencia como Analista Junior de Datos, trabajando en la 
 recopilación, limpieza y análisis de información mediante Python, SQL, Excel y 
 Power BI. He desarrollado reportes y paneles interactivos orientados a la toma de 
 decisiones, colaborando con usuarios para definir requerimientos y documentar 
 procesos
 
-
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 ## Habilidades
 - Python: Análisis, limpieza y visualización de datos
