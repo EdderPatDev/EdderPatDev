@@ -1,16 +1,15 @@
-## Hi there 👋
+# ¡Hola! Soy [Tu Nombre]
 
-<!--
-**EdderPatDev/EdderPatDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Desarrollador web | 📚 Aprendiz constante | 🌍 De [Tu Ciudad]
 
-Here are some ideas to get you started:
+## Sobre mí
+Me encanta crear soluciones digitales con HTML, CSS y JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+- JavaScript
+- React
+- Node.js
+
+## Proyectos
+- [Mi primer proyecto](https://github.com/tuusuario/proyecto1)
+- [Blog personal](https://github.com/tuusuario/blog)   
